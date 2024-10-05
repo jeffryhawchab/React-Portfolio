@@ -12,11 +12,41 @@
 
 ### ✨ [Demo](jeffreyhawchab.vercel.app)
 
-## Install
+## setup the project
+```sh
+git clone https://github.com/jeffryhawchab/React-Portfolio.git
+```
 
+```sh
+cd React-Portfolio
+```
 ```sh
 npm install
 ```
+```sh
+npm run dev
+```
+
+## Editing the Portfolio
+
+To customize your portfolio, navigate to the `src/components` directory. You can edit various components to update the content, styles, and layout of your portfolio as needed.
+
+### Customizing the Contact Us Screen
+1. **Open the Contact Us Component:**
+   Locate the `Contact.jsx` file in the `src/components` directory.
+
+2. **Replace the FormCarry URL:**
+   In the `handleSubmit` function, update the URL in the `fetch` call to point to your desired form handling service. For example:
+   ```javascript
+   const response = await fetch('https://your-custom-url.com/api/contact',
+    ```
+
+   ### Adjust the GitHub Chart: In the Project section, replace the current GitHub chart URL with the following:
+     ```bash
+       https://ghchart.rshah.org/008000/yourusername
+    ```
+   
+
 
 ## Author
 
