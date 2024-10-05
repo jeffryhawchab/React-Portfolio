@@ -44,7 +44,7 @@ const ContactUs = () => {
           <h2 className="text-3xl font-bold text-white mb-8">Contact Us</h2>
           <form
             id="contact-form"
-            action="https://formcarry.com/s/agcbYL7GE"
+            action="https://formcarry.com/s/agcbYL7GE" //
             method="POST"
             onSubmit={handleSubmit}
             className="space-y-6"

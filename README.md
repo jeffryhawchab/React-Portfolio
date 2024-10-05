@@ -1,8 +1,33 @@
-# React + Vite
+<h1 align="center">Welcome to portfolio 👋</h1>
+<p>
+  <a href="https://www.npmjs.com/package/portfolio" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/portfolio.svg">
+  </a>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> This is a personal portfolio built with React and powered by Vite for fast development and build processes. The design is styled using TailwindCSS, allowing for a sleek, responsive, and modern interface. The portfolio showcases my projects, skills, and background, optimized for performance and accessibility.
 
-Currently, two official plugins are available:
+### ✨ [Demo](jeffreyhawchab.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Install
+
+```sh
+npm install
+```
+
+## Author
+
+👤 **jeffreyhawchab**
+
+* Website: jeffreyhawchab.vercel.app
+* Github: [@jeffryhawchab](https://github.com/jeffryhawchab)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
