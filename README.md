@@ -41,23 +41,11 @@ To customize your portfolio, navigate to the `src/components` directory. You can
    const response = await fetch('https://your-custom-url.com/api/contact',
     ```
 
+<br>
+
+
    ### Adjust the GitHub Chart: In the Project section, replace the current GitHub chart URL with the following:
      ```bash
        https://ghchart.rshah.org/008000/yourusername
     ```
    
-
-
-## Author
-
-👤 **jeffreyhawchab**
-
-* Website: jeffreyhawchab.vercel.app
-* Github: [@jeffryhawchab](https://github.com/jeffryhawchab)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
