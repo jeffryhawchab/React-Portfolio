@@ -10,6 +10,8 @@
 
 > This is a personal portfolio built with React and powered by Vite for fast development and build processes. The design is styled using TailwindCSS, allowing for a sleek, responsive, and modern interface. The portfolio showcases my projects, skills, and background, optimized for performance and accessibility.
 
+## if you liked it give it a ⭐ thank you . 
+
 ### ✨ [Demo](https://jeffreyhawchab.vercel.app)
 
 ## setup the project
@@ -46,8 +48,4 @@ To customize your portfolio, navigate to the `src/components` directory. You can
 
    ### Adjust the GitHub Chart: In the Project section, replace the current GitHub chart URL with the following:  [gchart](https://ghchart.rshah.org)
 
-<br>
-
-
-## if you liked it give it a ⭐ thank you . 
    
