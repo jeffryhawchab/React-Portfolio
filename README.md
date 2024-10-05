@@ -45,7 +45,7 @@ To customize your portfolio, navigate to the `src/components` directory. You can
 
 
    ### Adjust the GitHub Chart: In the Project section, replace the current GitHub chart URL with the following:
-     ```bash
-       https://ghchart.rshah.org/008000/yourusername
-    ```
+    ```sh
+https://ghchart.rshah.org/008000/your_github_username
+```
    
