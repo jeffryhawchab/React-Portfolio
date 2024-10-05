@@ -10,7 +10,7 @@
 
 > This is a personal portfolio built with React and powered by Vite for fast development and build processes. The design is styled using TailwindCSS, allowing for a sleek, responsive, and modern interface. The portfolio showcases my projects, skills, and background, optimized for performance and accessibility.
 
-### ✨ [Demo](jeffreyhawchab.vercel.app)
+### ✨ [Demo](https://jeffreyhawchab.vercel.app)
 
 ## setup the project
 ```sh
